@@ -16,7 +16,7 @@ A python tool based on Phonopy to generate irreducible representations of phonon
     where `<space group>` denotes the space group to which the material belongs, and `<high-symmetry position>` denotes the high-symmetry position for which the irreducible representation is to be calculated.
 
 ### example
-we calculate the irreps of phonon eigenvectors at 100 sampled q-points along HSL DT (0, 0, w) in material BaLiP.
+We calculate the irreps of phonon eigenvectors at 100 sampled q-points along HSL DT (0, 0, w) in material BaLiP.
 
 Necessary file for genrating `band.yaml`: 
 
