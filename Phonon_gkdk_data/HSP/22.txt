@@ -1,0 +1,130 @@
+Bravais Lattice: Orthorhombic face-centered lattice
+Space group number: 22
+Irreducible representation data of high-symmetry points:
+
+----------------------------------------------------------------------------
+HSP: GM
+k (prim): (0, 0, 0)
+k (conv): (0, 0, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0  1  0  0]
+ [ 1  0  0  0]
+ [-1 -1 -1  0]
+Operation 3:
+ [ 0  0  1  0]
+ [-1 -1 -1  0]
+ [ 1  0  0  0]
+Operation 4:
+ [-1 -1 -1  0]
+ [ 0  0  1  0]
+ [ 0  1  0  0]
+
+Irreducible representation:
+GM1 {1}: [1 1 1 1]
+GM2 {2}: [ 1  1 -1 -1]
+GM3 {3}: [ 1 -1  1 -1]
+GM4 {4}: [ 1 -1 -1  1]
+----------------------------------------------------------------------------
+HSP: L
+k (prim): (1/2, 1/2, 1/2)
+k (conv): (1/2, 1/2, 1/2)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+
+Irreducible representation:
+L1 {1}: [1]
+----------------------------------------------------------------------------
+HSP: T
+k (prim): (0, 1/2, 1/2)
+k (conv): (1, 0, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0  1  0  0]
+ [ 1  0  0  0]
+ [-1 -1 -1  0]
+Operation 3:
+ [ 0  0  1  0]
+ [-1 -1 -1  0]
+ [ 1  0  0  0]
+Operation 4:
+ [-1 -1 -1  0]
+ [ 0  0  1  0]
+ [ 0  1  0  0]
+
+Irreducible representation:
+T1 {1}: [1 1 1 1]
+T2 {2}: [ 1  1 -1 -1]
+T3 {3}: [ 1 -1  1 -1]
+T4 {4}: [ 1 -1 -1  1]
+----------------------------------------------------------------------------
+HSP: Y
+k (prim): (1/2, 0, 1/2)
+k (conv): (0, 1, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0  1  0  0]
+ [ 1  0  0  0]
+ [-1 -1 -1  0]
+Operation 3:
+ [ 0  0  1  0]
+ [-1 -1 -1  0]
+ [ 1  0  0  0]
+Operation 4:
+ [-1 -1 -1  0]
+ [ 0  0  1  0]
+ [ 0  1  0  0]
+
+Irreducible representation:
+Y1 {1}: [1 1 1 1]
+Y2 {2}: [ 1  1 -1 -1]
+Y3 {3}: [ 1 -1  1 -1]
+Y4 {4}: [ 1 -1 -1  1]
+----------------------------------------------------------------------------
+HSP: Z
+k (prim): (1/2, 1/2, 0)
+k (conv): (0, 0, 1)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0  1  0  0]
+ [ 1  0  0  0]
+ [-1 -1 -1  0]
+Operation 3:
+ [ 0  0  1  0]
+ [-1 -1 -1  0]
+ [ 1  0  0  0]
+Operation 4:
+ [-1 -1 -1  0]
+ [ 0  0  1  0]
+ [ 0  1  0  0]
+
+Irreducible representation:
+Z1 {1}: [1 1 1 1]
+Z2 {2}: [ 1  1 -1 -1]
+Z3 {3}: [ 1 -1  1 -1]
+Z4 {4}: [ 1 -1 -1  1]
+----------------------------------------------------------------------------

@@ -1,0 +1,103 @@
+Bravais Lattice: Monoclinic base-centered lattice
+Space group number: 8
+Irreducible representation data of high-symmetry points:
+
+----------------------------------------------------------------------------
+HSP: A
+k (prim): (0, 0, 1/2)
+k (conv): (0, 0, 1/2)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [0 1 0 0]
+ [1 0 0 0]
+ [0 0 1 0]
+
+Irreducible representation:
+A1 {1}: [1 1]
+A2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSP: GM
+k (prim): (0, 0, 0)
+k (conv): (0, 0, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [0 1 0 0]
+ [1 0 0 0]
+ [0 0 1 0]
+
+Irreducible representation:
+GM1 {1}: [1 1]
+GM2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSP: L
+k (prim): (0, 1/2, 1/2)
+k (conv): (1/2, 1/2, 1/2)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+
+Irreducible representation:
+L1 {1}: [1]
+----------------------------------------------------------------------------
+HSP: M
+k (prim): (-1/2, 1/2, 1/2)
+k (conv): (0, 1, 1/2)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [0 1 0 0]
+ [1 0 0 0]
+ [0 0 1 0]
+
+Irreducible representation:
+M1 {1}: [1 1]
+M2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSP: V
+k (prim): (0, 1/2, 0)
+k (conv): (1/2, 1/2, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+
+Irreducible representation:
+V1 {1}: [1]
+----------------------------------------------------------------------------
+HSP: Y
+k (prim): (-1/2, 1/2, 0)
+k (conv): (0, 1, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [0 1 0 0]
+ [1 0 0 0]
+ [0 0 1 0]
+
+Irreducible representation:
+Y1 {1}: [1 1]
+Y2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
