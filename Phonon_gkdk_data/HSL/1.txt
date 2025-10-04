@@ -1,0 +1,5 @@
+Bravais Lattice:  Triclinic primitive lattice
+Space group number: 1
+Irreducible representation data of high-symmetry lines:
+
+----------------------------------------------------------------------------

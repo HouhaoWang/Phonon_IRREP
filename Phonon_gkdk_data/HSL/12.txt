@@ -1,0 +1,41 @@
+Bravais Lattice: Monoclinic base-centered lattice
+Space group number: 12
+Irreducible representation data of high-symmetry lines:
+
+----------------------------------------------------------------------------
+HSL: LD
+k (prim): (-v/2, v/2, 0) path: (-1, 1, 0) -> (0, 0, 0)
+k (conv): (0, v, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0 -1  0  0]
+ [-1  0  0  0]
+ [ 0  0 -1  0]
+
+Irreducible representation:
+LD1 {1}: [1 1]
+LD2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSL: U
+k (prim): (-v/2, v/2, 1/2) path: (-1, 1, 1/2) -> (0, 0, 1/2)
+k (conv): (0, v, 1/2)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0 -1  0  0]
+ [-1  0  0  0]
+ [ 0  0 -1  0]
+
+Irreducible representation:
+U1 {1}: [1 1]
+U2 {2}: [ 1 -1]
+----------------------------------------------------------------------------

@@ -1,0 +1,113 @@
+Bravais Lattice: Orthorhombic face-centered lattice
+Space group number: 22
+Irreducible representation data of high-symmetry lines:
+
+----------------------------------------------------------------------------
+HSL: A
+k (prim): (1/2, u/2+1/2, u/2) path: (1/2, 1/2, 0) -> (1/2, 3/2, 1)
+k (conv): (u, 0, 1)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [-1 -1 -1  0]
+ [ 0  0  1  0]
+ [ 0  1  0  0]
+
+Irreducible representation:
+A1 {1}: [1 1]
+A2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSL: B
+k (prim): (v/2+1/2, 1/2, v/2) path: (1/2, 1/2, 0) -> (3/2, 1/2, 1)
+k (conv): (0, v, 1)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0  0  1  0]
+ [-1 -1 -1  0]
+ [ 1  0  0  0]
+
+Irreducible representation:
+B1 {1}: [1 1]
+B2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSL: DT
+k (prim): (v/2, 0, v/2) path: (0, 0, 0) -> (1, 0, 1)
+k (conv): (0, v, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0  0  1  0]
+ [-1 -1 -1  0]
+ [ 1  0  0  0]
+
+Irreducible representation:
+DT1 {1}: [1 1]
+DT2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSL: H
+k (prim): (w/2+1/2, w/2, 1/2) path: (1/2, 0, 1/2) -> (3/2, 1, 1/2)
+k (conv): (0, 1, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0  1  0  0]
+ [ 1  0  0  0]
+ [-1 -1 -1  0]
+
+Irreducible representation:
+H1 {1}: [1 1]
+H2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSL: LD
+k (prim): (w/2, w/2, 0) path: (0, 0, 0) -> (1, 1, 0)
+k (conv): (0, 0, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0  1  0  0]
+ [ 1  0  0  0]
+ [-1 -1 -1  0]
+
+Irreducible representation:
+LD1 {1}: [1 1]
+LD2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSL: SM
+k (prim): (0, u/2, u/2) path: (0, 0, 0) -> (0, 1, 1)
+k (conv): (u, 0, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [-1 -1 -1  0]
+ [ 0  0  1  0]
+ [ 0  1  0  0]
+
+Irreducible representation:
+SM1 {1}: [1 1]
+SM2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
