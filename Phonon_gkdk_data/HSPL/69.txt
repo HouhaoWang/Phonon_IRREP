@@ -1,0 +1,59 @@
+Bravais Lattice: Orthorhombic face-centered lattice
+Space group number: 69
+Irreducible representation data of high-symmetry planes:
+
+----------------------------------------------------------------------------
+HSPL: E
+k (prim): (v/2 + w/2, w/2, v/2)
+k (conv): (0, v, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 1  1  1  0]
+ [ 0  0 -1  0]
+ [ 0 -1  0  0]
+
+Irreducible representation:
+E1 {1}: [1 1]
+E2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSPL: J
+k (prim): (w/2, u/2 + w/2, u/2)
+k (conv): (u, 0, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0  0 -1  0]
+ [ 1  1  1  0]
+ [-1  0  0  0]
+
+Irreducible representation:
+J1 {1}: [1 1]
+J2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSPL: M
+k (prim): (v/2, u/2, u/2 + v/2)
+k (conv): (u, v, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0 -1  0  0]
+ [-1  0  0  0]
+ [ 1  1  1  0]
+
+Irreducible representation:
+M1 {1}: [1 1]
+M2 {2}: [ 1 -1]
+----------------------------------------------------------------------------

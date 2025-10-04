@@ -1,0 +1,77 @@
+Bravais Lattice: Orthorhombic base-centered lattice
+Space group number: 67
+Irreducible representation data of high-symmetry planes:
+
+----------------------------------------------------------------------------
+HSPL: K
+k (prim): (-v/2, v/2, w)
+k (conv): (0, v, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0 -1  0  0]
+ [-1  0  0  0]
+ [ 0  0  1  0]
+
+Irreducible representation:
+K1 {1}: [1 1]
+K2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSPL: M
+k (prim): (u/2, u/2, w)
+k (conv): (u, 0, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0.   1.   0.  -0.5]
+ [ 1.   0.   0.  -0.5]
+ [ 0.   0.   1.   0. ]
+
+Irreducible representation:
+M1 {1}: [1 1]
+M2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSPL: P
+k (prim): (u/2 - v/2, u/2 + v/2, 0)
+k (conv): (u, v, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 1.   0.   0.  -0.5]
+ [ 0.   1.   0.  -0.5]
+ [ 0.   0.  -1.   0. ]
+
+Irreducible representation:
+P1 {1}: [1 1]
+P2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSPL: Q
+k (prim): (u/2 - v/2, u/2 + v/2, 1/2)
+k (conv): (u, v, 1/2)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 1.   0.   0.  -0.5]
+ [ 0.   1.   0.  -0.5]
+ [ 0.   0.  -1.   0. ]
+
+Irreducible representation:
+Q1 {1}: [1 1]
+Q2 {2}: [ 1 -1]
+----------------------------------------------------------------------------

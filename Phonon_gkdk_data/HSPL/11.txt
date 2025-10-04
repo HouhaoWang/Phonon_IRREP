@@ -1,0 +1,40 @@
+Bravais Lattice: Monoclinic primitive lattice
+Space group number: 11
+Irreducible representation data of high-symmetry planes:
+
+----------------------------------------------------------------------------
+HSPL: F
+k (prim): (u, 0, w)
+k (conv): (u, 0, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 1.   0.   0.   0. ]
+ [ 0.  -1.   0.  -0.5]
+ [ 0.   0.   1.   0. ]
+
+Irreducible representation:
+F1 {1}: [1 1]
+F2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSPL: G
+k (prim): (u, 1/2, w)
+k (conv): (u, 1/2, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 1.   0.   0.   0. ]
+ [ 0.  -1.   0.  -0.5]
+ [ 0.   0.   1.   0. ]
+
+Irreducible representation:
+G1 {1,2}: [2 0]
+----------------------------------------------------------------------------

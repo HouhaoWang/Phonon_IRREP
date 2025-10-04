@@ -1,0 +1,111 @@
+Bravais Lattice:  Orthorhombic primitive lattice
+Space group number: 58
+Irreducible representation data of high-symmetry planes:
+
+----------------------------------------------------------------------------
+HSPL: K
+k (prim): (0, v, w)
+k (conv): (0, v, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [-1.   0.   0.  -0.5]
+ [ 0.   1.   0.   0.5]
+ [ 0.   0.   1.  -0.5]
+
+Irreducible representation:
+K1 {1}: [1 1]
+K2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSPL: L
+k (prim): (1/2, v, w)
+k (conv): (1/2, v, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [-1.   0.   0.  -0.5]
+ [ 0.   1.   0.   0.5]
+ [ 0.   0.   1.  -0.5]
+
+Irreducible representation:
+L1 {1,2}: [2 0]
+----------------------------------------------------------------------------
+HSPL: M
+k (prim): (u, 0, w)
+k (conv): (u, 0, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 1.   0.   0.   0.5]
+ [ 0.  -1.   0.  -0.5]
+ [ 0.   0.   1.  -0.5]
+
+Irreducible representation:
+M1 {1}: [1 1]
+M2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSPL: N
+k (prim): (u, 1/2, w)
+k (conv): (u, 1/2, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 1.   0.   0.   0.5]
+ [ 0.  -1.   0.  -0.5]
+ [ 0.   0.   1.  -0.5]
+
+Irreducible representation:
+N1 {1,2}: [2 0]
+----------------------------------------------------------------------------
+HSPL: V
+k (prim): (u, v, 0)
+k (conv): (u, v, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 1  0  0  0]
+ [ 0  1  0  0]
+ [ 0  0 -1  1]
+
+Irreducible representation:
+V1 {1}: [1 1]
+V2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSPL: W
+k (prim): (u, v, 1/2)
+k (conv): (u, v, 1/2)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 1  0  0  0]
+ [ 0  1  0  0]
+ [ 0  0 -1  1]
+
+Irreducible representation:
+W1 {1}: [ 1 -1]
+W2 {2}: [1 1]
+----------------------------------------------------------------------------

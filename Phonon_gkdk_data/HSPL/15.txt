@@ -1,0 +1,23 @@
+Bravais Lattice: Monoclinic base-centered lattice
+Space group number: 15
+Irreducible representation data of high-symmetry planes:
+
+----------------------------------------------------------------------------
+HSPL: B
+k (prim): (u/2, u/2, w)
+k (conv): (u, 0, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0.   1.   0.   0. ]
+ [ 1.   0.   0.   0. ]
+ [ 0.   0.   1.  -0.5]
+
+Irreducible representation:
+B1 {1}: [ 1 -1]
+B2 {2}: [1 1]
+----------------------------------------------------------------------------
