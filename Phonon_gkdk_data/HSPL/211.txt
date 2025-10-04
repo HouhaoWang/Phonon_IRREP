@@ -1,0 +1,31 @@
+Bravais Lattice: Cubic body-centered lattice
+Space group number: 211
+Irreducible representation data of high-symmetry planes:
+
+----------------------------------------------------------------------------
+HSPL: A
+k (prim): (-u/2 + v/2, u/2 - v/2, u/2 + v/2)
+k (conv): (u, v, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+
+Irreducible representation:
+A1 {1}: [1]
+----------------------------------------------------------------------------
+HSPL: C
+k (prim): (w/2, w/2, u - w/2)
+k (conv): (u, u, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+
+Irreducible representation:
+C1 {1}: [1]
+----------------------------------------------------------------------------
