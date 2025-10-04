@@ -1,0 +1,169 @@
+Bravais Lattice: Cubic body-centered lattice
+Space group number: 229
+Irreducible representation data of high-symmetry lines:
+
+----------------------------------------------------------------------------
+HSL: D
+k (prim): (w/2, w/2, 1/2-w/2) path: (0, 0, 1/2) -> (1, 1, -1/2)
+k (conv): (1/2, 1/2, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0  1 -1  0]
+ [ 1  0 -1  0]
+ [ 0  0 -1  0]
+Operation 3:
+ [0 1 0 0]
+ [1 0 0 0]
+ [0 0 1 0]
+Operation 4:
+ [ 1  0 -1  0]
+ [ 0  1 -1  0]
+ [ 0  0 -1  0]
+
+Irreducible representation:
+D1 {1}: [1 1 1 1]
+D2 {2}: [ 1  1 -1 -1]
+D3 {3}: [ 1 -1  1 -1]
+D4 {4}: [ 1 -1 -1  1]
+----------------------------------------------------------------------------
+HSL: DT
+k (prim): (v/2, -v/2, v/2) path: (0, 0, 0) -> (1, -1, 1)
+k (conv): (0, v, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 1  0  0  0]
+ [ 1  0 -1  0]
+ [ 1 -1  0  0]
+Operation 3:
+ [ 0 -1  1  0]
+ [-1  0  1  0]
+ [ 0  0  1  0]
+Operation 4:
+ [ 0 -1  1  0]
+ [ 0 -1  0  0]
+ [ 1 -1  0  0]
+Operation 5:
+ [ 1 -1  0  0]
+ [ 1  0 -1  0]
+ [ 1  0  0  0]
+Operation 6:
+ [ 0  0  1  0]
+ [-1  0  1  0]
+ [ 0 -1  1  0]
+Operation 7:
+ [ 1 -1  0  0]
+ [ 0 -1  0  0]
+ [ 0 -1  1  0]
+Operation 8:
+ [0 0 1 0]
+ [0 1 0 0]
+ [1 0 0 0]
+
+Irreducible representation:
+DT1 {1}: [1 1 1 1 1 1 1 1]
+DT2 {2}: [ 1 -1 -1  1  1  1 -1 -1]
+DT3 {3}: [ 1  1  1  1 -1 -1 -1 -1]
+DT4 {4}: [ 1 -1 -1  1 -1 -1  1  1]
+DT5 {5}: [ 2  0  0 -2  0  0  0  0]
+----------------------------------------------------------------------------
+HSL: G
+k (prim): (1/2-u, u+1/2, 1/2) path: (-1/2, 3/2, 1/2) -> (1/2, 1/2, 1/2)
+k (conv): (u+1, 1-u, 1)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0 -1  1  0]
+ [-1  0  1  0]
+ [ 0  0  1  0]
+Operation 3:
+ [ 0 -1  0  0]
+ [-1  0  0  0]
+ [ 0  0 -1  0]
+Operation 4:
+ [ 1  0 -1  0]
+ [ 0  1 -1  0]
+ [ 0  0 -1  0]
+
+Irreducible representation:
+G1 {1}: [1 1 1 1]
+G2 {2}: [ 1 -1  1 -1]
+G3 {3}: [ 1 -1 -1  1]
+G4 {4}: [ 1  1 -1 -1]
+----------------------------------------------------------------------------
+HSL: LD
+k (prim): (u/2, u/2, u/2) path: (0, 0, 0) -> (1, 1, 1)
+k (conv): (u, u, u)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [0 0 1 0]
+ [1 0 0 0]
+ [0 1 0 0]
+Operation 3:
+ [0 1 0 0]
+ [0 0 1 0]
+ [1 0 0 0]
+Operation 4:
+ [0 0 1 0]
+ [0 1 0 0]
+ [1 0 0 0]
+Operation 5:
+ [0 1 0 0]
+ [1 0 0 0]
+ [0 0 1 0]
+Operation 6:
+ [1 0 0 0]
+ [0 0 1 0]
+ [0 1 0 0]
+
+Irreducible representation:
+LD1 {1}: [1 1 1 1 1 1]
+LD2 {2}: [ 1  1  1 -1 -1 -1]
+LD3 {3}: [ 2 -1 -1  0  0  0]
+----------------------------------------------------------------------------
+HSL: SM
+k (prim): (0, 0, u) path: (0, 0, 0) -> (0, 0, 1)
+k (conv): (u, u, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0 -1  1  0]
+ [-1  0  1  0]
+ [ 0  0  1  0]
+Operation 3:
+ [-1  0  1  0]
+ [ 0 -1  1  0]
+ [ 0  0  1  0]
+Operation 4:
+ [0 1 0 0]
+ [1 0 0 0]
+ [0 0 1 0]
+
+Irreducible representation:
+SM1 {1}: [1 1 1 1]
+SM2 {2}: [ 1 -1  1 -1]
+SM3 {3}: [ 1  1 -1 -1]
+SM4 {4}: [ 1 -1 -1  1]
+----------------------------------------------------------------------------

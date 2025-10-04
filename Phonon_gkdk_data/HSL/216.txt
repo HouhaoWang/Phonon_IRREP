@@ -1,0 +1,116 @@
+Bravais Lattice: Cubic face-centered lattice
+Space group number: 216
+Irreducible representation data of high-symmetry lines:
+
+----------------------------------------------------------------------------
+HSL: DT
+k (prim): (v/2, 0, v/2) path: (0, 0, 0) -> (1, 0, 1)
+k (conv): (0, v, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0  0  1  0]
+ [-1 -1 -1  0]
+ [ 1  0  0  0]
+Operation 3:
+ [ 1  0  0  0]
+ [-1 -1 -1  0]
+ [ 0  0  1  0]
+Operation 4:
+ [0 0 1 0]
+ [0 1 0 0]
+ [1 0 0 0]
+
+Irreducible representation:
+DT1 {1}: [1 1 1 1]
+DT2 {2}: [ 1  1 -1 -1]
+DT3 {3,4}: [ 2 -2  0  0]
+----------------------------------------------------------------------------
+HSL: LD
+k (prim): (u, u, u) path: (0, 0, 0) -> (1, 1, 1)
+k (conv): (u, u, u)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [0 1 0 0]
+ [1 0 0 0]
+ [0 0 1 0]
+Operation 3:
+ [1 0 0 0]
+ [0 0 1 0]
+ [0 1 0 0]
+Operation 4:
+ [0 0 1 0]
+ [0 1 0 0]
+ [1 0 0 0]
+Operation 5:
+ [0 1 0 0]
+ [0 0 1 0]
+ [1 0 0 0]
+Operation 6:
+ [0 0 1 0]
+ [1 0 0 0]
+ [0 1 0 0]
+
+Irreducible representation:
+LD1 1: [1 1 1 1 1 1]
+LD2 2: [ 1 -1 -1 -1  1  1]
+LD3 3: [ 2  0  0  0 -1 -1]
+----------------------------------------------------------------------------
+HSL: Q
+k (prim): (1/2, 3/4-v/2, v/2+1/4) path: (1/2, -1/4, 5/4) -> (1/2, 3/4, 1/4)
+k (conv): (1/2, v, 1-v)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+
+Irreducible representation:
+Q1 {1}: [1]
+----------------------------------------------------------------------------
+HSL: SM
+k (prim): (u/2, u/2, u) path: (0, 0, 0) -> (1, 1, 2)
+k (conv): (u, u, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [0 1 0 0]
+ [1 0 0 0]
+ [0 0 1 0]
+
+Irreducible representation:
+SM1 {1}: [1 1]
+SM2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
+HSL: V
+k (prim): (1/2, u/2, u/2+1/2) path: (1/2, 0, 1/2) -> (1/2, 1, 3/2)
+k (conv): (u, 1, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [-1 -1 -1  0]
+ [ 0  0  1  0]
+ [ 0  1  0  0]
+
+Irreducible representation:
+V1 {1}: [1 1]
+V2 {2}: [ 1 -1]
+----------------------------------------------------------------------------
