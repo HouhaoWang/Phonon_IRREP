@@ -1,0 +1,23 @@
+Bravais Lattice: Trigonal primitive lattice
+Space group number: 167
+Irreducible representation data of high-symmetry planes:
+
+----------------------------------------------------------------------------
+HSPL: C
+k (prim): (u/3 + w/3, -2*u/3 + w/3, u/3 + w/3)
+k (conv): (u/3 + w/3, -2*u/3 + w/3, u/3 + w/3)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0.   0.   1.  -0.5]
+ [ 0.   1.   0.  -0.5]
+ [ 1.   0.   0.  -0.5]
+
+Irreducible representation:
+C1 {1}: [1 1]
+C2 {2}: [ 1 -1]
+----------------------------------------------------------------------------

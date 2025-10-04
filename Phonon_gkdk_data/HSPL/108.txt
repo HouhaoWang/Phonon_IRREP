@@ -1,0 +1,54 @@
+Bravais Lattice: Tetragonal body-centered lattice
+Space group number: 108
+Irreducible representation data of high-symmetry planes:
+
+----------------------------------------------------------------------------
+HSPL: A
+k (prim): (w/2, w/2, u - w/2)
+k (conv): (u, u, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [0.  1.  0.  0.5]
+ [1.  0.  0.  0.5]
+ [0.  0.  1.  0. ]
+
+Irreducible representation:
+A1 1: [ 1 -1]
+A2 2: [1 1]
+----------------------------------------------------------------------------
+HSPL: B
+k (prim): (-u/2 + w/2, u/2 + w/2, u/2 - w/2)
+k (conv): (u, 0, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0.   1.  -1.   0.5]
+ [ 0.   1.   0.   0.5]
+ [-1.   1.   0.   0. ]
+
+Irreducible representation:
+B1 1: [1 1]
+B2 2: [ 1 -1]
+----------------------------------------------------------------------------
+HSPL: C
+k (prim): (-u/2 + v/2, u/2 - v/2, u/2 + v/2)
+k (conv): (u, v, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+
+Irreducible representation:
+C1 {1}: [1]
+----------------------------------------------------------------------------

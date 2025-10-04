@@ -1,0 +1,85 @@
+Bravais Lattice: Tetragonal primitive lattice
+Space group number: 102
+Irreducible representation data of high-symmetry planes:
+
+----------------------------------------------------------------------------
+HSPL: B
+k (prim): (0, v, w)
+k (conv): (0, v, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [-1.   0.   0.  -1.5]
+ [ 0.   1.   0.  -0.5]
+ [ 0.   0.   1.   0.5]
+
+Irreducible representation:
+B1 1: [1 1]
+B2 2: [ 1 -1]
+----------------------------------------------------------------------------
+HSPL: C
+k (prim): (u, u, w)
+k (conv): (u, u, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 0  1  0 -1]
+ [ 1  0  0  1]
+ [ 0  0  1  0]
+
+Irreducible representation:
+C1 1: [1 1]
+C2 2: [ 1 -1]
+----------------------------------------------------------------------------
+HSPL: D
+k (prim): (u, v, 0)
+k (conv): (u, v, 0)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+
+Irreducible representation:
+D1 {1}: [1]
+----------------------------------------------------------------------------
+HSPL: E
+k (prim): (u, v, 1/2)
+k (conv): (u, v, 1/2)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+
+Irreducible representation:
+E1 {1}: [1]
+----------------------------------------------------------------------------
+HSPL: F
+k (prim): (u, 1/2, w)
+k (conv): (u, 1/2, w)
+
+Little group operation matrix (prim):
+Operation 1:
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+Operation 2:
+ [ 1.   0.   0.   0.5]
+ [ 0.  -1.   0.   0.5]
+ [ 0.   0.   1.   0.5]
+
+Irreducible representation:
+F1 1: [1.+0.j 0.+1.j]
+F2 2: [ 1.+0.j -0.-1.j]
+----------------------------------------------------------------------------
