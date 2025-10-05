@@ -48,4 +48,4 @@ python phonon_irrep.py 187 DT
 The output of irreducible representation information is stored in `out.txt`.
 
 More details can be found in the following work:  
-[*Diagnosis of enforced phonon band crossings in the entire frequency window by compatibility relations*](), Houhao Wang, Xiangang Wan, Feng Tang.
+[*Diagnosis of enforced phonon band crossings in the entire frequency window by compatibility relations*](), Houhao Wang, Sergey Y. Savrasov, Xiangang Wan, Feng Tang.
